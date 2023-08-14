@@ -10,14 +10,9 @@ The ultimate goal of this project is to provide a comprehensive solution for onl
 
 Key Features:-
 
-Comprehensive view of pivotal sales metrics and performance benchmarks.
-
-Integration of complex parameters for exploring specific data subsets.
-
-Customization options through filters and slicers.
-
-Establishment of connections and integration of new tables for dataset refinement.
-
-Utilization of various visualization types, such as bar charts, pie charts, scatter plots, and more.
-
-Instinctive and interactive user interface for a dynamic analytical experience.
+1) Comprehensive view of pivotal sales metrics and performance benchmarks.
+2) Integration of complex parameters for exploring specific data subsets.
+3) Customization options through filters and slicers.
+4) Establishment of connections and integration of new tables for dataset refinement.
+5) Utilization of various visualization types, such as bar charts, pie charts, scatter plots, and more.
+6) Instinctive and interactive user interface for a dynamic analytical experience.
